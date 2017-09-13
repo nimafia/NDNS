@@ -15,7 +15,7 @@ The tool takes as input a FQDN and an ASN database. Instructions on how to build
 
 Here is a simple example:
 
->> $ sudo ./ddptrQM --fqdn youtube.com /path/to/asn/database
+> $ sudo ./ddptrQM --fqdn youtube.com /path/to/asn/database
 
 In my case, the tool tells me:
 
