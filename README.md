@@ -19,8 +19,8 @@ Here is a simple example:
 
 In my case, the tool tells me:
 
-2017-09-12 12:33:52,833 [INFO]: Now handling FQDN 1 of 1: youtube.com
-2017-09-12 12:33:52,833 [INFO]: Tracing delegation path for FQDN youtube.com using 8.8.8.8.
+> 2017-09-12 12:33:52,833 [INFO]: Now handling FQDN 1 of 1: youtube.com
+> 2017-09-12 12:33:52,833 [INFO]: Tracing delegation path for FQDN youtube.com using 8.8.8.8.
 2017-09-12 12:33:55,037 [INFO]: Extracting DNS servers from dig's output
 2017-09-12 12:33:55,038 [INFO]: DNS servers in dig trace: 192.58.128.30, 192.42.93.30, 216.239.34.10
 2017-09-12 12:33:55,038 [INFO]: Extracting DNS servers that see the full QNAME(If we use QNAME Minimization) from dig's output.
